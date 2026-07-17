@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000057",
+    "audio_file": "IQ_000057.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "فرص",
+            "start": 0.0,
+            "end": 0.752
+        },
+        {
+            "word": "وموارد",
+            "start": 0.752,
+            "end": 1.505
+        },
+        {
+            "word": "وطراث",
+            "start": 1.505,
+            "end": 2.257
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "pair_id": "PAIR_000080",
+    "audio_file": "IQ_000080.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "لكي",
+            "start": 0.0,
+            "end": 0.442
+        },
+        {
+            "word": "تكون",
+            "start": 0.442,
+            "end": 0.884
+        },
+        {
+            "word": "عمرك",
+            "start": 0.884,
+            "end": 1.325
+        },
+        {
+            "word": "16",
+            "start": 1.325,
+            "end": 1.767
+        },
+        {
+            "word": "سنة",
+            "start": 1.767,
+            "end": 2.209
+        }
+    ]
+}

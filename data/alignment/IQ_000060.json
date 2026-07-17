@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000060",
+    "audio_file": "IQ_000060.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "نعم،",
+            "start": 0.0,
+            "end": 0.669
+        },
+        {
+            "word": "نحن",
+            "start": 0.669,
+            "end": 1.337
+        },
+        {
+            "word": "كنا...",
+            "start": 1.337,
+            "end": 2.006
+        }
+    ]
+}

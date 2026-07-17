@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000037",
+    "audio_file": "IQ_000037.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "صعبة",
+            "start": 0.0,
+            "end": 0.457
+        },
+        {
+            "word": "الفيزا",
+            "start": 0.457,
+            "end": 0.914
+        },
+        {
+            "word": "علي",
+            "start": 0.914,
+            "end": 1.371
+        },
+        {
+            "word": "العراقين",
+            "start": 1.371,
+            "end": 1.828
+        }
+    ]
+}

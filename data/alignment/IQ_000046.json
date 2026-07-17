@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000046",
+    "audio_file": "IQ_000046.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "قلت",
+            "start": 0.0,
+            "end": 0.531
+        },
+        {
+            "word": "لهمو",
+            "start": 0.531,
+            "end": 1.063
+        },
+        {
+            "word": "تبني",
+            "start": 1.063,
+            "end": 1.595
+        },
+        {
+            "word": "لهم",
+            "start": 1.595,
+            "end": 2.126
+        }
+    ]
+}

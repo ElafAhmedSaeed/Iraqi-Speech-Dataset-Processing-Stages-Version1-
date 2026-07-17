@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000050",
+    "audio_file": "IQ_000050.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "زمال",
+            "start": 0.0,
+            "end": 0.642
+        },
+        {
+            "word": "والحصان",
+            "start": 0.642,
+            "end": 1.284
+        },
+        {
+            "word": "والمعرفة",
+            "start": 1.284,
+            "end": 1.925
+        },
+        {
+            "word": "شنو",
+            "start": 1.925,
+            "end": 2.567
+        }
+    ]
+}

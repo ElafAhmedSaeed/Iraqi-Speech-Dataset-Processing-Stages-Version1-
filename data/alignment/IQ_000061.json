@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000061",
+    "audio_file": "IQ_000061.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "واجبوعة",
+            "start": 0.0,
+            "end": 0.637
+        },
+        {
+            "word": "شباب",
+            "start": 0.637,
+            "end": 1.275
+        },
+        {
+            "word": "عندهم",
+            "start": 1.275,
+            "end": 1.912
+        }
+    ]
+}

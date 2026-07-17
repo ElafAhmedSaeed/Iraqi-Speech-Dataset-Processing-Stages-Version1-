@@ -1,0 +1,45 @@
+# =====================================================
+# Iraqi Speech Dataset Configuration
+# =====================================================
+
+project:
+  name: "Iraqi Speech Dataset"
+  version: "1.0"
+
+paths:
+
+  raw_audio: "data/raw/audio"
+  raw_transcripts: "data/raw/transcripts"
+
+  organized: "data/organized"
+  validated: "data/validated"
+  cleaned: "data/cleaned"
+  normalized: "data/normalized"
+  processed_audio: "data/processed_audio"
+  segmented: "data/segmented"
+  aligned: "data/aligned"
+  lexicon: "data/lexicon"
+
+metadata:
+
+  metadata_file: "metadata/metadata.csv"
+  speakers_file: "metadata/speakers.csv"
+  words_file: "metadata/iraqi_words.csv"
+
+audio:
+
+  sample_rate: 16000
+
+  channels: 1
+
+  bit_depth: 16
+
+  format: ".wav"
+
+text:
+
+  encoding: "utf-8"
+
+logging:
+
+  level: "INFO"

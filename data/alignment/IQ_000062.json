@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000062",
+    "audio_file": "IQ_000062.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "تجارب",
+            "start": 0.0,
+            "end": 0.629
+        },
+        {
+            "word": "يودون",
+            "start": 0.629,
+            "end": 1.259
+        },
+        {
+            "word": "مناطق",
+            "start": 1.259,
+            "end": 1.888
+        },
+        {
+            "word": "سياحية",
+            "start": 1.888,
+            "end": 2.518
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "pair_id": "PAIR_000006",
+    "audio_file": "IQ_000006.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "اهلا",
+            "start": 0.0,
+            "end": 0.507
+        },
+        {
+            "word": "بكم",
+            "start": 0.507,
+            "end": 1.014
+        },
+        {
+            "word": "في",
+            "start": 1.014,
+            "end": 1.522
+        },
+        {
+            "word": "البودكاست",
+            "start": 1.522,
+            "end": 2.029
+        },
+        {
+            "word": "تجاو",
+            "start": 2.029,
+            "end": 2.536
+        }
+    ]
+}

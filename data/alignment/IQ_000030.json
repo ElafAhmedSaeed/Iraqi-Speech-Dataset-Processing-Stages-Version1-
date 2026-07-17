@@ -1,0 +1,37 @@
+{
+    "pair_id": "PAIR_000030",
+    "audio_file": "IQ_000030.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "لا",
+            "start": 0.0,
+            "end": 0.552
+        },
+        {
+            "word": "اعرف",
+            "start": 0.552,
+            "end": 1.104
+        },
+        {
+            "word": "بالضبط",
+            "start": 1.104,
+            "end": 1.656
+        },
+        {
+            "word": "ما",
+            "start": 1.656,
+            "end": 2.208
+        },
+        {
+            "word": "الذي",
+            "start": 2.208,
+            "end": 2.76
+        },
+        {
+            "word": "تغير",
+            "start": 2.76,
+            "end": 3.312
+        }
+    ]
+}

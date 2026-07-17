@@ -1,0 +1,17 @@
+{
+    "pair_id": "PAIR_000069",
+    "audio_file": "IQ_000069.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "بالجبال",
+            "start": 0.0,
+            "end": 1.272
+        },
+        {
+            "word": "والصحراء",
+            "start": 1.272,
+            "end": 2.544
+        }
+    ]
+}

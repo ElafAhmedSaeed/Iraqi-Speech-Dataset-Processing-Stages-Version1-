@@ -1,0 +1,32 @@
+{
+    "pair_id": "PAIR_000028",
+    "audio_file": "IQ_000028.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "شكرا",
+            "start": 0.0,
+            "end": 0.526
+        },
+        {
+            "word": "لكم",
+            "start": 0.526,
+            "end": 1.052
+        },
+        {
+            "word": "علي",
+            "start": 1.052,
+            "end": 1.579
+        },
+        {
+            "word": "اشارة",
+            "start": 1.579,
+            "end": 2.105
+        },
+        {
+            "word": "الفيزا",
+            "start": 2.105,
+            "end": 2.631
+        }
+    ]
+}

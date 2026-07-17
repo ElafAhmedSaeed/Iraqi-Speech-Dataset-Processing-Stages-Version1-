@@ -1,0 +1,32 @@
+{
+    "pair_id": "PAIR_000064",
+    "audio_file": "IQ_000064.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "رايع",
+            "start": 0.0,
+            "end": 1.071
+        },
+        {
+            "word": "جدا",
+            "start": 1.071,
+            "end": 2.142
+        },
+        {
+            "word": "جولة",
+            "start": 2.142,
+            "end": 3.213
+        },
+        {
+            "word": "حتي",
+            "start": 3.213,
+            "end": 4.284
+        },
+        {
+            "word": "التصوير",
+            "start": 4.284,
+            "end": 5.355
+        }
+    ]
+}

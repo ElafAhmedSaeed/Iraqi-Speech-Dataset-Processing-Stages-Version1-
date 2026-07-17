@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000002",
+    "audio_file": "IQ_000002.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "90%",
+            "start": 0.0,
+            "end": 0.487
+        },
+        {
+            "word": "مننا",
+            "start": 0.487,
+            "end": 0.974
+        },
+        {
+            "word": "حركات",
+            "start": 0.974,
+            "end": 1.46
+        },
+        {
+            "word": "كال",
+            "start": 1.46,
+            "end": 1.947
+        }
+    ]
+}

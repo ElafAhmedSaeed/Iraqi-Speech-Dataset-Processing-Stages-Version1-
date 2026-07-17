@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000034",
+    "audio_file": "IQ_000034.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "عند",
+            "start": 0.0,
+            "end": 0.448
+        },
+        {
+            "word": "شوفهم",
+            "start": 0.448,
+            "end": 0.896
+        },
+        {
+            "word": "يانسي",
+            "start": 0.896,
+            "end": 1.344
+        },
+        {
+            "word": "سليم",
+            "start": 1.344,
+            "end": 1.792
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+جميع الأكواد الخاصة بالمرحلة الأولى ستكون هنا.
+
+stage1/
+│
+├── create_structure.py
+├── rename_files.py
+├── generate_ids.py
+├── create_metadata.py
+├── create_speakers.py
+├── create_lexicon.py
+└── run_stage1.py
+
+أي أن كل ملف مسؤول عن مهمة واحدة فقط.

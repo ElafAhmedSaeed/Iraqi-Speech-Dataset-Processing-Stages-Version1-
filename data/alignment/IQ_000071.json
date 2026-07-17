@@ -1,0 +1,17 @@
+{
+    "pair_id": "PAIR_000071",
+    "audio_file": "IQ_000071.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "وبالنظر",
+            "start": 0.0,
+            "end": 0.965
+        },
+        {
+            "word": "어",
+            "start": 0.965,
+            "end": 1.929
+        }
+    ]
+}

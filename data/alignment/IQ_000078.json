@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000078",
+    "audio_file": "IQ_000078.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "ورجل",
+            "start": 0.0,
+            "end": 0.547
+        },
+        {
+            "word": "اعمال",
+            "start": 0.547,
+            "end": 1.095
+        },
+        {
+            "word": "ناجح",
+            "start": 1.095,
+            "end": 1.642
+        },
+        {
+            "word": "بالعراق",
+            "start": 1.642,
+            "end": 2.189
+        }
+    ]
+}

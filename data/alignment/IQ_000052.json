@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000052",
+    "audio_file": "IQ_000052.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "ويمكن",
+            "start": 0.0,
+            "end": 0.672
+        },
+        {
+            "word": "دفعهم",
+            "start": 0.672,
+            "end": 1.345
+        },
+        {
+            "word": "اكثر.",
+            "start": 1.345,
+            "end": 2.017
+        }
+    ]
+}

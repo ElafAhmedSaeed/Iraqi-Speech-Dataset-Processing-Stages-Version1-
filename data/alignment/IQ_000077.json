@@ -1,0 +1,32 @@
+{
+    "pair_id": "PAIR_000077",
+    "audio_file": "IQ_000077.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "بس",
+            "start": 0.0,
+            "end": 0.363
+        },
+        {
+            "word": "انت",
+            "start": 0.363,
+            "end": 0.726
+        },
+        {
+            "word": "موجود",
+            "start": 0.726,
+            "end": 1.089
+        },
+        {
+            "word": "هنا",
+            "start": 1.089,
+            "end": 1.452
+        },
+        {
+            "word": "بالعراق",
+            "start": 1.452,
+            "end": 1.815
+        }
+    ]
+}

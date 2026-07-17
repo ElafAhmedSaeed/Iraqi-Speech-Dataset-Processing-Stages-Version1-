@@ -1,0 +1,20 @@
+============================================================
+IRAQI SPEECH DATASET
+VALIDATION REPORT
+============================================================
+
+Generated : 2026-07-10 02:32:44.270197
+
+Total Audio Files      : 80
+Valid Audio Files      : 80
+Invalid Audio Files    : 0
+
+Total Transcripts      : 80
+Valid Transcripts      : 80
+Invalid Transcripts    : 0
+
+Total Pairs            : 80
+Valid Pairs            : 80
+Invalid Pairs          : 0
+
+Dataset Status         : READY FOR STAGE 3

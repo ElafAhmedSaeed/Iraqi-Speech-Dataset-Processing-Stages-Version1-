@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000021",
+    "audio_file": "IQ_000021.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "ورعااتنا",
+            "start": 0.0,
+            "end": 0.545
+        },
+        {
+            "word": "بشركة",
+            "start": 0.545,
+            "end": 1.089
+        },
+        {
+            "word": "شمس",
+            "start": 1.089,
+            "end": 1.634
+        },
+        {
+            "word": "تلكرام",
+            "start": 1.634,
+            "end": 2.179
+        }
+    ]
+}

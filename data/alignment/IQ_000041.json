@@ -1,0 +1,17 @@
+{
+    "pair_id": "PAIR_000041",
+    "audio_file": "IQ_000041.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "لديك",
+            "start": 0.0,
+            "end": 0.853
+        },
+        {
+            "word": "معلومات",
+            "start": 0.853,
+            "end": 1.705
+        }
+    ]
+}

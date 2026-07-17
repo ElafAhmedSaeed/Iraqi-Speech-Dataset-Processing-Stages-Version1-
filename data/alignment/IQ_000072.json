@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000072",
+    "audio_file": "IQ_000072.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "بحكم",
+            "start": 0.0,
+            "end": 0.74
+        },
+        {
+            "word": "تجربتي",
+            "start": 0.74,
+            "end": 1.479
+        },
+        {
+            "word": "السابقة",
+            "start": 1.479,
+            "end": 2.219
+        }
+    ]
+}

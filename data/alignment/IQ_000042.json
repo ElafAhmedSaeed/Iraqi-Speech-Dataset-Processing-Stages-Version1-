@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000042",
+    "audio_file": "IQ_000042.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "مشاريع",
+            "start": 0.0,
+            "end": 0.743
+        },
+        {
+            "word": "شركات",
+            "start": 0.743,
+            "end": 1.486
+        },
+        {
+            "word": "سياحية",
+            "start": 1.486,
+            "end": 2.229
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pair_id": "PAIR_000015",
+    "audio_file": "IQ_000015.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "العملات",
+            "start": 0.0,
+            "end": 0.658
+        },
+        {
+            "word": "الرخمية",
+            "start": 0.658,
+            "end": 1.316
+        },
+        {
+            "word": "المشفرة",
+            "start": 1.316,
+            "end": 1.974
+        }
+    ]
+}

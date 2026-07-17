@@ -1,0 +1,17 @@
+{
+    "pair_id": "PAIR_000023",
+    "audio_file": "IQ_000023.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "الحمد",
+            "start": 0.0,
+            "end": 1.817
+        },
+        {
+            "word": "لله",
+            "start": 1.817,
+            "end": 3.635
+        }
+    ]
+}

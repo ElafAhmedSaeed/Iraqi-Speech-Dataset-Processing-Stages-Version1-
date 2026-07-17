@@ -1,0 +1,27 @@
+{
+    "pair_id": "PAIR_000005",
+    "audio_file": "IQ_000005.wav",
+    "alignment_score": 1.0,
+    "words": [
+        {
+            "word": "حسب",
+            "start": 0.0,
+            "end": 0.469
+        },
+        {
+            "word": "علمه",
+            "start": 0.469,
+            "end": 0.937
+        },
+        {
+            "word": "يدعوه",
+            "start": 0.937,
+            "end": 1.405
+        },
+        {
+            "word": "يدرس",
+            "start": 1.405,
+            "end": 1.874
+        }
+    ]
+}
